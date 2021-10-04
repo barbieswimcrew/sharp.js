@@ -1,14 +1,13 @@
 {
     "name": "@barbieswimcrew/sharp.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "MIT",
     "author": "Martin Schindler",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/barbieswimcrew/sharp.js.git"
     },
-    "dependencies": {
-    },
+    "dependencies": {},
     "devDependencies": {
         "@babel/core": "^7.7.0",
         "@babel/plugin-proposal-class-properties": "^7.0.0",
