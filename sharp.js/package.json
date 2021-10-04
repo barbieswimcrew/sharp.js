@@ -1,0 +1,34 @@
+{
+    "name": "@barbieswimcrew/sharp.js",
+    "version": "0.0.1",
+    "license": "MIT",
+    "author": "Martin Schindler",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/barbieswimcrew/sharp.js.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "@babel/core": "^7.7.0",
+        "@babel/plugin-proposal-class-properties": "^7.0.0",
+        "@babel/plugin-syntax-dynamic-import": "^7.0.0",
+        "core-js": "^3.0.0"
+    },
+    "description": "a blazingly hot way to write modern JavaScript for frontend applications",
+    "keywords": [
+        "sharp",
+        "sharp.js",
+        "sharp js",
+        "javascript",
+        "es6",
+        "js",
+        "vanilla js",
+        "ecmascript",
+        "js oop",
+        "object oriented javascript"
+    ],
+    "files": [
+        "src/"
+    ]
+}
