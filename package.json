@@ -1,6 +1,6 @@
 {
     "name": "@barbieswimcrew/sharp.js",
-    "version": "0.0.9",
+    "version": "0.0.11",
     "license": "MIT",
     "author": "Martin Schindler",
     "repository": {
@@ -28,6 +28,7 @@
         "object oriented javascript"
     ],
     "files": [
-        "index.js"
+        "index.js",
+        "src/"
     ]
 }
