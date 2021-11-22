@@ -2,7 +2,7 @@
 
 const Emitter = require('events').EventEmitter;
 
-class EventEmitter extends Emitter {
+export default new class EventEmitter extends Emitter {
     #instance;
 
     constructor() {
@@ -14,5 +14,3 @@ class EventEmitter extends Emitter {
         this.#instance = this;
     }
 }
-
-export default new EventEmitter();
